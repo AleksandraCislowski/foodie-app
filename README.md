@@ -10,7 +10,7 @@ Feel free to try to create a new recipe to the database :)
 
 In the project directory, you can run:
 
-### `npm dev`
+### `next dev`
 
 
 on both fronted and backend for this to be working.
